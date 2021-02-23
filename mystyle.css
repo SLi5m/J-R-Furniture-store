@@ -1,0 +1,9 @@
+.price {
+    text-align: left;
+    }
+    .image-left {
+        float: left;
+        margin: 15px 20px 10px 0px;
+        border: solid 4px #fff;
+    
+    }
